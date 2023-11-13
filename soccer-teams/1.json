@@ -1,0 +1,6 @@
+{
+  "team": "Manchester United",
+  "points": "18",
+  "league": ["1st division", "english"],
+  "stadium": {"capacity": ""74,310"", "location": "Manchester, England"}
+}
