@@ -1,0 +1,6 @@
+{
+  "team": "AC Milan",
+  "points": "17",
+  "league": ["1st division", "italian"],
+  "stadium": {"capacity": ""80,018"", "location": "Milano, Italy"}
+}
